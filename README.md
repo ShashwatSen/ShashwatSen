@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-@shashwattsenn-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/shashwattsenn/)](https://instagram.com/shashwattsenn)
 
 Code without bugs is just love <3. </br></br>
-Originally a Full Stack Developer but 
+Originally a Full Stack Developer and Discord Bot Developer but 
 Currently interested in making tools 
 
 ## 💻 Tech Stacks
