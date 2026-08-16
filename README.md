@@ -27,7 +27,7 @@ Currently interested in making tools
 ##  About me
 <details>
   <summary>Click to expand</summary>
-   I am From Delhi, India.</br>Still a Higher Schooler...
+   I am From Delhi, India.</br>this learning just never ends?????
    
   
 </details>
